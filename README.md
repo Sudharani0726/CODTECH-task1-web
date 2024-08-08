@@ -6,7 +6,6 @@ Mentor: SANTOSH KUMAR
 Project Overview
 Project: Weather Forecast App
 Objective: Build an interactive web application that allows users to view current weather conditions and forecasts for different locations.
-
 Features:
 Location Search:
 
@@ -31,9 +30,9 @@ Handle API errors gracefully with user-friendly messages.
 User Interface Enhancements:
 
 Implement a clean and modern UI with CSS animations and transitions for a better user experience.
-Allow users to switch between Celsius ad Fahrenheit.
+Allow users to switch between Celsius and Fahrenheit.
 
-Technology Stack:
+Technologies Used
 HTML: Structure the web pages and forms.
 CSS: Style the app, use Flexbox/Grid, animations, and responsive design techniques.
 JavaScript: Fetch and display weather data, handle user interactions, and manage the app's logic.
