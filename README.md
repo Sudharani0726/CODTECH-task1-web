@@ -36,5 +36,7 @@ Technologies Used
 HTML: Structure the web pages and forms.
 CSS: Style the app, use Flexbox/Grid, animations, and responsive design techniques.
 JavaScript: Fetch and display weather data, handle user interactions, and manage the app's logic.
-[Screenshot (2)](https://github.com/user-attachments/assets/713efa8d-1ad3-4252-a3d7-d2e030d5596e)
+OUTPUT:
+![Screenshot (2)](https://github.com/user-attachments/assets/f5a56c6b-0791-4f98-9b3a-2acf273f795e)
+
 
