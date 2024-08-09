@@ -1,8 +1,8 @@
-**Name:** K.Sudha
-**Company:** CODETECH IT SOLUTIONS
-**ID:** CT6WDS887
-**Duration:** 5th July 2024, 6:00 PM
-**Mentor:** SANTOSH KUMAR
+**Name:** K.Sudha.
+**Company:** CODETECH IT SOLUTIONS.
+**ID:** CT6WDS887.
+**Duration:** 5th July 2024, 6:00 PM.
+**Mentor:** SANTOSH KUMAR.
 
 # Project Overview
 **Project**: Weather Forecast App
