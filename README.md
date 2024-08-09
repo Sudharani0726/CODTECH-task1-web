@@ -1,14 +1,18 @@
-**Name:** K.Sudha.
+**Name:** K.Sudha
 
-**Company:** CODETECH IT SOLUTIONS.
+**Company:** CODETECH IT SOLUTIONS
 
-**ID:** CT6WDS887.
-**Duration:** 5th July 2024, 6:00 PM.
-**Mentor:** SANTOSH KUMAR.
+**ID:** CT6WDS887
+
+**Duration:** 5th July 2024, 6:00 PM
+
+**Mentor:** SANTOSH KUMAR
 
 # Project Overview
 **Project**: Weather Forecast App
+
 **Objective**: Build an interactive web application that allows users to view current weather conditions and forecasts for different locations.
+
 ## Features:
 - **Location Search:**
 
@@ -37,8 +41,11 @@ Allow users to switch between Celsius and Fahrenheit.
 
 ## Technologies Used
 **HTML:** Structure the web pages and forms.
+
 **CSS:** Style the app, use Flexbox/Grid, animations, and responsive design techniques.
+
 **JavaScript:** Fetch and display weather data, handle user interactions, and manage the app's logic.
+
 ## OUTPUT:
 ![Screenshot (2)](https://github.com/user-attachments/assets/f5a56c6b-0791-4f98-9b3a-2acf273f795e)
 
